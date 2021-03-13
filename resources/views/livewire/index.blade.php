@@ -95,17 +95,17 @@
                     @endforeach
 
                         <input type="hidden" wire:model="ContactId">
-                       <div class="block my-3">
+                       <div class="flex my-3">
                            <label for="name" class="inline text-gray-700 text-lg">Name:</label>
                            <input type="text" wire:model="name" class="text-gray-600 form-input ml-7 w-3/4 px-5 border-2 border-blue-500 rounded-md" id="name" placeholder="Please enter your name">
                         </div>
 
-                       <div class="block my-3">
+                       <div class="flex my-3">
                         <label for="email" class="inline text-gray-700 text-lg">Email:</label>
                         <input type="email" wire:model="email" class=" text-gray-600 form-input ml-7 w-3/4 px-5 border-2 border-blue-500 rounded-md" id="email" placeholder="test@domain.com">
                     </div>
 
-                    <div class="block my-3">
+                    <div class="flex my-3">
                         <label for="address" class="inline text-gray-700 text-lg">Address:</label>
                         <input type="email" wire:model="address" class=" text-gray-600  form-input ml-3  w-4/6 px-5 border-2 border-blue-500 rounded-md" id="address" placeholder="Mbezi Beach street">
                     </div>

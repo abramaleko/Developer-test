@@ -29,6 +29,6 @@ This is a laravel test project developed by Abraham Maleko to demonstrate my exp
    
    8. After following all those steps, you will be all set up you can start the project by 
 
-     ```bash
+     ```
          php  artisan serve
         ```

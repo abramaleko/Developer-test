@@ -27,7 +27,7 @@ This is a laravel test project developed by Abraham Maleko to demonstrate my exp
         ```
    7. Configure the mail settings in the .env with your mailtrap configurations to receive successful notifications
    
-    After following all those steps, you will be all set up you can start the project by 
+   8. After following all those steps, you will be all set up you can start the project by 
 
      ```bash
          php  artisan serve
